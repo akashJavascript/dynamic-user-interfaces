@@ -1,0 +1,14 @@
+.dropdown {
+    width: max-content;
+    display: grid;
+}
+.dropdown-item {
+    padding: 2px;
+    cursor: pointer;
+    border: 1px solid black;
+    visibility: hidden;
+}
+.show {
+    visibility: visible;
+    background-color: blanchedalmond;
+}
